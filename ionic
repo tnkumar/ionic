@@ -1,0 +1,11 @@
+Windows 10 - node.js (npm is available) and ionic installed 
+node.js cli run as administrator
+Go to directory where you have built ionic project    - ionic serve
+localhost:8100
+using ionic components
+index.html 
+html <ctrl> 5
+inside body <ion-app>
+<ion-content>
+outside of <ion-content> <ion-header><ion-toolbar><ion-title>
+<ion-card><ion-card-content> and add the items inside that
